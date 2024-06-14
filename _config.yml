@@ -1,0 +1,5 @@
+title: colin
+description: # this means to ignore newlines until "baseurl:"
+permalink: ':title/'
+baseurl: ''
+url: "https://colin.github.io"
